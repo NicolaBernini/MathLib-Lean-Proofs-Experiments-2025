@@ -82,3 +82,14 @@ lake build
 ```
 
 
+
+# Test 
+
+## Checking test1.lean
+
+Opening `test1.lean` in this repo, you should see 
+
+![alt text](images/image-20251115-1205-1.png)
+
+
+
